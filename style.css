@@ -1,0 +1,32 @@
+.same{
+	
+	width:500px;
+	margin: 0 auto;
+
+}
+label{
+	width:130px;
+	float:left;
+}
+input{
+border-radius:5px;
+border:1px solid grey;
+
+}
+.diff{
+	margin-bottom: 10px;
+}
+#sub{
+	margin-left:130px;
+}
+.sam{
+	color: red; 
+
+
+}
+#suc{
+	color:green;
+	margin-left: 130px;
+
+
+}
